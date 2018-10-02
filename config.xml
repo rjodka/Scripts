@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+	<servers>
+		<srv>SERVER</srv>
+	</servers>
+	<service>
+		<name>Service display name</name>
+	</service>
+    <Status>
+        <plat>Name service</plat>
+    </Status>
+  	<log>
+		<path>log path</path>
+	</log>
+	<webhook>
+		<url>URL Webhook Teams or Slack</url>
+	</webhook>
+	<sm>
+		<url>URL API Tickets</url>
+	</sm>
+	<imdados>
+		<category></category>
+		<company></company>
+		<alternatecontact></alternatecontact>
+		<assignmentgroup></assignmentgroup>
+		<impact></impact>
+		<configura></configura>
+		<producttype></producttype>
+		<symptom></symptom>
+		<subcategory></subcategory>
+		<urgency></urgency>
+	</imdados>
+</Configuration>
